@@ -1,1 +1,1 @@
-[LIVE DEPLOYMENT](https://mchugh1894.github.io/Portfolio/)
+https://mchugh1894.github.io/Portfolio/
